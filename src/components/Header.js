@@ -8,7 +8,7 @@ export const Header = () => {
 				<div className="container">
 					<div className="inner-content">
 						<div className="brand">
-							<Link to="/">start2track</Link>
+							<Link to="/">Netflix</Link>
 						</div>
 						<ul className="nav-links">
 							<li>
